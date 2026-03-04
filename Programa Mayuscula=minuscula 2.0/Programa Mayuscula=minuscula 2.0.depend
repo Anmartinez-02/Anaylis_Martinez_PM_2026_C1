@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1771531362 source:c:\users\anaylis\documents\anaylis_martinez_pm_2026_c1\programa mayuscula=minuscula 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
